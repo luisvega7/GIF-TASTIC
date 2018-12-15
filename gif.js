@@ -53,7 +53,7 @@ $(document).ready(function() {
             nflLogo.attr("data-still", still);
             nflLogo.attr("data-animate",animation);
             nflLogo.attr("data-state", "still");
-            nflLogo.addClass("animal-image");
+            nflLogo.addClass(".NFL-buttons");
   
             endzone.append(p);
             endzone.append(nflLogo);
