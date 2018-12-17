@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
     var teams = [
-      "Oakland Raiders", "Los Angeles Chargers", " Denver Broncos", "Kansas City Chiefs", "San Francisco 49ers","Seattle Seahawks", 
-      " Arizona Cardinals", "Los Angeles Rams", "Dallas Cowboys", "Philladelphia Eagles", "Washington Redskins", "New York Giants", 
-      "Bufalo Bills", "New England Patriots", "Miami Dolphins", "New York Jets", "Minnesota Vikings", "Chicago Bears",
+      "Oakland Raiders", "Los Angeles Chargers", " Denver Broncos", "KC Chiefs", "San Francisco 49ers","Seattle Seahawks", 
+      " AZ Cardinals", "Los Angeles Rams", "Dallas Cowboys", "Philladelphia Eagles", "Washington Redskins", "NY Giants", 
+      "Bufalo Bills", "New England Patriots", "Miami Dolphins", "NY Jets", "Minnesota Vikings", "Chicago Bears",
       "Green Bay Packers",  "Detroit Lions", "Houston Texans", "Indianapolis Colts", "Jacksonville Jaguars", "Tennessee Titans", "Carolina Panthers",
       "Atlanta Falcons", "New Orleans Saints", "Tampa Bay Bucaneers", 
     ];
