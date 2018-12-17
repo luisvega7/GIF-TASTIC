@@ -48,12 +48,12 @@ $(document).ready(function() {
             var animation = results[i].images.fixed_height.url;
             var still = results[i].images.fixed_height_still.url;
   
-            var nflLogo = $("<img>");
-            nflLogo.attr("src", still);
-            nflLogo.attr("data-still", still);
-            nflLogo.attr("data-animate",animation);
-            nflLogo.attr("data-state", "still");
-            nflLogo.addClass(".NFL-buttons");
+           var nflLogo = $("<img>");
+          nflLogo.attr("src", animation);
+          nflLogo.attr("data-animation", still);
+          nflLogo.attr("data-still", animation);
+          nflLogo.attr("data-state", "animation");
+          nflLogo.addClass(".NFL-buttons");
   
             endzone.append(p);
             endzone.append(nflLogo);
