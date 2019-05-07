@@ -1,8 +1,26 @@
 body {
     font: 18px arial, sans-serif;
-    background: rgb(0, 0, 0);
-    color: #eeeeee;
+    background: #000000;
+    color: #bec5c5;
+    font-family: 'Gloria Hallelujah', cursive;
   }
+  
+  .jumbotron{
+    background: transparent;
+    font-family: 'Gloria Hallelujah', cursive;
+  }
+
+  h1{
+    text-align: center;
+  }
+  
+  #logo{
+     position: absolute;
+      left: 15%;
+     right: 30%;
+    
+  }
+  
   
   #squads {
     width: 70%;
